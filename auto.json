@@ -1,0 +1,32 @@
+{
+    "auto": [
+        {
+            "marka": "Mercedes-Benz",
+            "evjarat": "2018",
+            "hengerurtartalom": "2000",
+            "szin": "fekete",
+            "db": 2
+        },
+        {
+            "marka": "Maseratti",
+            "evjarat": "2012",
+            "hengerurtartalom": "1400",
+            "szin": "szürke",
+            "db": 3
+        },
+        {
+            "marka": "BMW",
+            "evjarat": "2020",
+            "hengerurtartalom": "3000",
+            "szin": "kék",
+            "db": 4
+        },
+        {
+            "marka": "Audi",
+            "evjarat": "2011",
+            "hengerurtartalom": "1800",
+            "szin": "piros",
+            "db": 5
+        }
+    ]
+}
